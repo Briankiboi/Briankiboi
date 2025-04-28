@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian kiboi</h1>
 <h3 align="center">A passionate software engineer and aspirant data analyst</h3>
 
-- 🔭 I’m currently working on **an android (flutter) attendance app for  our university **
+- 🔭 I’m currently working on An Android (flutter) attendance app for  our university **
 
 - 🌱 I’m currently doing my **power bi certification , DAX (Data Analysis Expressions) and Power Query  as a full package**
 
