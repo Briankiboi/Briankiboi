@@ -1,12 +1,16 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]()
-<h1 align="center">Hi 👋, I'm Brian Kiboi</h1>
-<h3 align="center">A passionate Software Engineer & Aspiring Data Analyst</h3>
+I'm a passionate Flutter developer skilled in building cross-platform apps, REST APIs, UI/UX design, widgets, and state management. I have a proven record of delivering high-quality solutions, including API integration, third-party libraries, and performance optimization. Currently, I am developing an attendance app to further strengthen my real-world experience.
 
-- 🔭 Currently building a **Flutter-based attendance app** for our university to enhance real-world experience  
-- 🌱 Pursuing a **Power BI certification**, focusing on DAX and Power Query to dive into data analytics  
-- 💻 Skilled in **cross-platform app development**, REST APIs, UI/UX design, widgets, and state management  
-- 🚀 Experienced in **system design**, database management, version control, and performance optimization  
-- 📊 Actively expanding into **data visualization and business intelligence** to deliver greater value in projects  
+As a software developer, I have gained strong skills in system design, database management, version control, and API development, enabling me to deliver scalable, efficient (websites and web apps) applications with a focus on user experience.also actively learning Power BI to expand into data visualization and business intelligence, reflecting my commitment to continuous growth and delivering even greater value to projects.
+
+- 🔭 Currently building a Flutter-based university attendance app  
+- 💡 Skilled in UI/UX design, Flutter widgets, and state management  
+- 🔌 Experienced with REST APIs, API integration, and performance tuning  
+- 🧠 Strong background in system design, version control, and databases  
+- 📊 Learning Power BI (DAX, Power Query) for data analytics and BI  
+- 🚀 Dedicated to continuous learning and delivering impactful solutions
+
+
 
 
 - 📫 How to reach me **briankiboi83@gmail.com**
