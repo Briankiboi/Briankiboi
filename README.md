@@ -1,10 +1,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]()
-<h1 align="center">Hi 👋, I'm Brian kiboi</h1>
-<h3 align="center">A passionate software engineer and aspirant data analyst</h3>
+<h1 align="center">Hi 👋, I'm Brian Kiboi</h1>
+<h3 align="center">A passionate Software Engineer & Aspiring Data Analyst</h3>
 
-- 🔭 I’m currently working on a Flutter attendance app for  our university **
+- 🔭 Currently building a **Flutter-based attendance app** for our university to enhance real-world experience  
+- 🌱 Pursuing a **Power BI certification**, focusing on DAX and Power Query to dive into data analytics  
+- 💻 Skilled in **cross-platform app development**, REST APIs, UI/UX design, widgets, and state management  
+- 🚀 Experienced in **system design**, database management, version control, and performance optimization  
+- 📊 Actively expanding into **data visualization and business intelligence** to deliver greater value in projects  
 
-- 🌱 I’m currently doing my **power bi certification , DAX (Data Analysis Expressions) and Power Query  as a full package**
 
 - 📫 How to reach me **briankiboi83@gmail.com**
 
