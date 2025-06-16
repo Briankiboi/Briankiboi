@@ -81,6 +81,8 @@
 
 ### Statistics
 
+### Statistics
+
 <table>
   <tr>
     <th align="left">Language / Framework</th>
@@ -144,11 +146,9 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" height="20"/>
-      Tailwind CSS
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="20"/>
+      Power BI
     </td>
     <td align="center"><strong>2%</strong></td>
   </tr>
 </table>
-
-
