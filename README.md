@@ -40,7 +40,7 @@
 
 ---
 
-### 🤝 My Socials
+### 🤝 My Social Links
 
 
 <p>
