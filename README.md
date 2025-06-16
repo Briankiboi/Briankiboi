@@ -34,13 +34,13 @@
 
 ---
 
-### 📫 Contact Me via email
+### 📫 Contact Me Via Email
 
 **Email:** briankiboi83@gmail.com
 
 ---
 
-### 🤝 My socials
+### 🤝 My Socials
 
 
 <p>
