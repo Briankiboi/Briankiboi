@@ -42,6 +42,7 @@
 
 ### 🤝 Connect with Me
 
+
 <p>
   <a href="https://www.linkedin.com/in/brian-kiboi-21aa02277/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -49,8 +50,10 @@
   <a href="https://api.whatsapp.com/send?phone=254112401838" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40" />
   </a>
-</p>
-
+  <a href="https://briankiboi32.medium.com/" target="_blank">
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
+  </a>
+  
 ---
 
 
