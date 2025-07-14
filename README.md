@@ -34,7 +34,7 @@
 
 ---
 
-### 📫 Contact Me Via Email
+### 📫 For any inquiries or opportunities, you can reach me via email at:
 
 **Email:** briankiboi83@gmail.com
 
