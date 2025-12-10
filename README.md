@@ -2,20 +2,20 @@
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Hacking GIF" width="100%" />
+      <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Developer GIF" width="100%" />
       <p><strong>Software Developer</strong></p>
     </td>
     <td width="60%">
-      <h2>👋 I'm Brian Kiboi</h2>
+      <h2>👋 Hi, I'm <strong>Brian Kiboi</strong></h2>
       <p>
-        I'm a passionate <strong>Flutter developer</strong> skilled in building cross-platform apps, REST APIs, UI/UX design, widgets, and state management.
-        I have a proven record of delivering high-quality solutions, including API integration, third-party libraries, and performance optimization.
-        Currently, I am developing an <strong>attendance app</strong> to further strengthen my real-world experience.
+        I'm a passionate <strong>Flutter and Full-Stack Developer</strong> specializing in cross-platform mobile apps, REST APIs, UI/UX design, widgets, and state management.
+        I deliver high-quality software solutions, including API integrations, third-party libraries, and performance optimization.
+        I’m currently developing a <strong>university attendance app</strong> to strengthen my real-world experience.
       </p>
       <p>
-        As a software developer, I have gained strong skills in system design, database management, version control, and API development—
-        enabling me to deliver scalable, efficient websites and web apps with a focus on user experience.
-        I'm also actively learning <strong>Power BI</strong> (including <strong>DAX</strong> and <strong>Dart Query</strong>) to expand into data visualization and business intelligence.
+        I have strong skills in system design, database management, version control, and backend development.
+        My focus is always on building <strong>scalable applications</strong> with clean architecture and great user experiences.
+        I'm also learning <strong>Power BI</strong> (DAX and Data Query) to expand into data analytics and business intelligence.
       </p>
     </td>
   </tr>
@@ -23,50 +23,21 @@
 
 ---
 
-### 🚀 Key Highlights
+## 🚀 About Me  
 
 - 🔭 Currently building a Flutter-based university attendance app  
 - 💡 Skilled in UI/UX design, Flutter widgets, and state management  
-- 🔌 Experienced with REST APIs, API integration, and performance tuning  
+- 🔌 Experienced with REST APIs, backend development, and performance tuning  
 - 🧠 Strong background in system design, version control, and databases  
-- 📊 Learning Power BI (DAX, Dart Query) for advanced analytics and reports  
-- 🚀 Dedicated to continuous learning and delivering impactful solutions  
+- 📊 Learning Power BI (DAX, Data Query) for analytics and reporting  
+- 💼 Certified in Microsoft Project Management  
+- 🚀 Committed to continuous learning and impactful development  
 
 ---
 
-### 📫 For any inquiries or opportunities, you can reach me via email at:
+## 🛠️ Skills & Technologies  
 
-**Email:** briankiboi83@gmail.com
-
----
-
-## 🌐 Portfolio Link
-
-**Portfolio:** [https://portfolio-two-kohl-52.vercel.app](https://portfolio-two-kohl-52.vercel.app)  
-
-
-
----
-### 🤝 My Social Links
-
-
-
-<p>
-  <a href="https://www.linkedin.com/in/brian-kiboi-21aa02277/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=254112401838" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40" />
-  </a>
-  <a href="https://briankiboi32.medium.com/" target="_blank">
-   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-  </a>
-  
----
-
-
-### 🧰 Languages & Tools
-
+### **Languages & Frameworks**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart"/>
@@ -75,21 +46,27 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</p>
+
+### **Databases**
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/>
 </p>
 
+### **Tools**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/>
+</p>
 
-###  📊 Tech Stack Usage Overview
+---
 
-
+## 📊 Tech Stack Usage Overview
 
 <table>
   <tr>
@@ -112,7 +89,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Python/Django‑Flask-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"/>
+      <img src="https://img.shields.io/badge/Python/Django-Flask-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20"/>
       Python / Flask
     </td>
     <td align="center"><strong>15%</strong></td>
@@ -160,3 +137,35 @@
     <td align="center"><strong>2%</strong></td>
   </tr>
 </table>
+
+---
+
+## 🌐 Portfolio  
+**🔗 https://portfolio-two-kohl-52.vercel.app**
+
+---
+
+## 📫 Contact Me  
+**📧 Email:** briankiboi83@gmail.com  
+
+---
+
+## 🤝 Connect With Me  
+
+<p>
+  <a href="https://www.linkedin.com/in/brian-kiboi-21aa02277/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=254112401838" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40" />
+  </a>
+  <a href="https://briankiboi32.medium.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## ⭐ If you like my work…  
+Consider giving a ⭐ to my repositories — it helps a lot!
+
