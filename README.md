@@ -15,31 +15,17 @@ I build high-performance mobile and web applications with clean architecture, st
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="70%" style="border-radius:12px;" />
 </p>
 
-
-<!-- =========================
-        ABOUT
-========================= -->
-## 🚀 About Me
-
-I’m a **Full-Stack Developer** focused on building **scalable, production-grade systems** using Flutter and modern backend technologies.
-
-I specialize in designing **clean architectures, APIs, and seamless user experiences** across mobile and web platforms.
-
-My work combines **mobile development, backend engineering, and cloud systems** to deliver reliable and scalable solutions.
-
 ---
 
 
----
 
-## 🚀 About Me  
+### 🧠 What I Focus On
 
-
-1.🚀 Passionate about building scalable, high-performance production systems  
-2.💡 Strong in UI/UX engineering & clean architecture patterns  
-3.🔌 Experienced in REST APIs, microservices & system integrations  
-4.🧠 Skilled in database design, system architecture & version control  
-5.💼 Certified in Microsoft Project Management by Microsoft   
+- Scalable mobile & web applications  
+- Clean architecture & maintainable codebases  
+- REST APIs, microservices & system integrations  
+- Database design & system optimization  
+- Cloud deployment & production systems  
 
 ---
 
@@ -58,52 +44,56 @@ My work combines **mobile development, backend engineering, and cloud systems** 
   <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase" />
 </p>
 
-<p align="center">
-  MySQL • PostgreSQL • Supabase • Firebase
-</p>
-
-
 ---
 
 ### ☁️ Cloud & DevOps  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,digitalocean,linux,githubactions,git,github" />
-</p>
-
-<p align="center">
-  ⚙️ CI/CD Pipelines • Cloud Deployment • DevOps Automation
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions" />
 </p>
 
 ---
 
-## 📊 Tech Focus Breakdown  
+## 📊 Tech Focus
 
-| Area | Focus Level |
-|------|------------|
-| Flutter / Dart (Mobile Apps) | ██████████ |
-| Node.js / TypeScript (Backend) | ████████ |
-| React / Next.js (Frontend) | ██████ |
-| Python / Django APIs | █████ |
-| SQL Databases | ████ |
-| System Architecture | ███ |
-| Cloud Engineering | ██ |
-| DevOps & CI/CD | ██ |
-| Data Analytics (Power BI) | █ |
+- **Flutter / Dart:** ██████████  
+- **Node.js / TypeScript:** ████████  
+- **React / Next.js:** ██████  
+- **Python / Django:** █████  
+- **SQL Databases:** ████  
+- **System Architecture:** ███  
+- **Cloud / DevOps:** ██  
+- **Analytics (Power BI):** █  
 
 ---
 
 ## 🌐 Portfolio  
-🔗https://portfolio-bk-rho.vercel.app/
+🔗 https://portfolio-bk-rho.vercel.app/
 
 ---
 
 ## 📫 Contact  
-
 📧 Email: **briankiboi83@gmail.com**
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Briankiboi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+</p>
+
+---
+
+## 📊 GitHub Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Briankiboi&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
 ## 🤝 Connect With Me  
 
 <p align="center">
@@ -121,10 +111,3 @@ My work combines **mobile development, backend engineering, and cloud systems** 
 </p>
 
 ---
-
-## ⭐ Support  
-
-If you find my work useful:  
-- ⭐ Star my repositories  
-- 👀 Follow my development journey  
-- 🍴 Fork & contribute to open-source projects  
