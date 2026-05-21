@@ -19,13 +19,15 @@ I build high-performance mobile and web applications with clean architecture, st
 
 
 
-### 🧠 What I Focus On
+## 🧠 What I Focus On
 
 - Scalable mobile & web applications  
 - Clean architecture & maintainable codebases  
 - REST APIs, microservices & system integrations  
 - Database design & system optimization  
 - Cloud deployment & production systems  
+- Deep software testing (unit, integration & end-to-end testing)  
+- Quality assurance & performance validation   
 
 ---
 
@@ -58,14 +60,16 @@ I build high-performance mobile and web applications with clean architecture, st
 
 ## 📊 Tech Focus
 
-- **Flutter / Dart:** ██████████  
-- **Node.js / TypeScript:** ████████  
-- **React / Next.js:** ██████  
-- **Python / Django:** █████  
-- **SQL Databases:** ████  
-- **System Architecture:** ███  
-- **Cloud / DevOps:** ██  
-- **Analytics (Power BI):** █  
+## 📊 Tech Focus
+
+Flutter / Dart: ████████████  
+Python / Django: ██████████  
+React / Next.js: █████████  
+Node.js / TypeScript: ███████  
+SQL Databases: ██████  
+System Architecture: █████  
+Cloud / DevOps: ████  
+Analytics (Power BI/ Dax): ██  
 
 ---
 
