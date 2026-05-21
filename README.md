@@ -69,21 +69,13 @@ I build high-performance mobile and web applications with clean architecture, st
 
 ---
 
-## 🌐 Portfolio  
-🔗 https://portfolio-bk-rho.vercel.app/
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Briankiboi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
+</div>
 
 ---
-
-## 📫 Contact  
-📧 Email: **briankiboi83@gmail.com**
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Briankiboi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
-</p>
 
 ---
 
@@ -108,6 +100,36 @@ I build high-performance mobile and web applications with clean architecture, st
   <a href="https://briankiboi32.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
+</p>
+
+---
+## 🌐 Portfolio & Contact  
+
+<p align="center">
+
+  <a href="https://portfolio-bk-rho.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Website-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="mailto:briankiboi83@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</p>
+
+<p align="center">
+  🔗 https://portfolio-bk-rho.vercel.app/
+</p>
+
+
+  <a href="mailto:briankiboi83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="tel:+254112401838">
+    <img src="https://img.shields.io/badge/Call-Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
