@@ -2,25 +2,41 @@
         HERO SECTION
 ========================= -->
 
+<!-- WELCOME BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Briankiboi/Briankiboi/main/welcome.png" alt="Welcome Image" width="70%" />
+</p>
+
+<!-- FOOTER ANIMATION -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" width="100%" />
+</p>
+
+
+
+<!-- TITLE -->
 <h1 align="center">
   Hi There 
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px">
   I'm Brian Kiboi
 </h1>
 
-<p align="center">
 
+<!-- TYPING ANIMATION -->
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Flutter+Engineer;Backend+%26+Systems+Developer;React+%26+Next.js+Developer;Python+%26+Django+Engineer;Software+Testing+%26+QA+Focused;Cloud+%26+DevOps+Enthusiast&font=Fira%20Code&center=true&width=750&height=45&color=00E5A0&vCenter=true&pause=1000&size=24" 
+      src="https://readme-typing-svg.demolab.com/?lines=Flutter+Mobile+Developer;Full-Stack+Engineer+(Flutter+%2B+React);Backend+API+Developer+(Django+%2F+Node.js);Scalable+System+Architect;Cloud+%26+DevOps+Engineer;Software+Testing;scalable+Architecture&font=Fira+Code&center=true&width=900&height=50&color=00E5A0&vCenter=true&pause=1000&size=24" 
     />
   </a>
-
 </p>
 
+
+<!-- DESCRIPTION -->
 <p align="center">
 I design and build scalable mobile and web applications with clean architecture, production-ready backend systems, and modern user-focused experiences.
 </p>
+
 
 
 ## 🧠 What I Focus On
