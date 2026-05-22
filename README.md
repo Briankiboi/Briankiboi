@@ -1,22 +1,26 @@
 <!-- =========================
         HERO SECTION
 ========================= -->
-<h1 align="center">👋 Hi, I'm Brian Kiboi</h1>
 
-<h3 align="center">
-🚀 Full-Stack Developer | Flutter Specialist | Scalable Systems Engineer
-</h3>
+<h1 align="center">
+  Hi There 
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px">
+  I'm Brian Kiboi
+</h1>
 
 <p align="center">
-I build high-performance mobile and web applications with clean architecture, strong UI/UX, and production-ready backend systems.
+
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Flutter+Engineer;Backend+%26+Systems+Developer;React+%26+Next.js+Developer;Python+%26+Django+Engineer;Software+Testing+%26+QA+Focused;Cloud+%26+DevOps+Enthusiast&font=Fira%20Code&center=true&width=750&height=45&color=00E5A0&vCenter=true&pause=1000&size=24" 
+    />
+  </a>
+
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="70%" style="border-radius:12px;" />
+I design and build scalable mobile and web applications with clean architecture, production-ready backend systems, and modern user-focused experiences.
 </p>
-
----
-
 
 
 ## 🧠 What I Focus On
