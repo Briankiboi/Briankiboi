@@ -131,7 +131,7 @@ Analytics (Power BI/ Dax): ██
 
 <p align="center">
 
-  <a href="https://portfolio-bk-rho.vercel.app/" target="_blank">
+  <a href="https://briankiboi.is-a.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Website-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
@@ -142,7 +142,7 @@ Analytics (Power BI/ Dax): ██
 </p>
 
 <p align="center">
-  🔗 https://portfolio-bk-rho.vercel.app/
+ 🌐    https://briankiboi.is-a.dev/
 </p>
 
 
