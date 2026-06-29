@@ -78,7 +78,7 @@ I design and build scalable mobile and web applications with clean architecture,
 
 ---
 
-## 📊 Tech Focus
+
 
 ## 📊 Tech Focus
 
