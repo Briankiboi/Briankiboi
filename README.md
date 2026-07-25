@@ -18,9 +18,12 @@
 <h1 align="center">
   Hi There 
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px">
-  I'm Brian Kiboi
+  I'm Brian Kiboi 
 </h1>
 
+ <p align="center">
+   👉 Tap to View  My portflio  https://briankiboi.is-a.dev/
+</p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -157,7 +160,7 @@ I design and build scalable mobile and web applications with clean architecture,
 </p>
 
 <p align="center">
- 🌐    https://briankiboi.is-a.dev/
+   👉 Tap to View  My portflio  https://briankiboi.is-a.dev/
 </p>
 
 ---
