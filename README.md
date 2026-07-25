@@ -80,20 +80,12 @@ I design and build scalable mobile and web applications with clean architecture,
 
 
 
-## 📊 Tech Focus
-
-1.Flutter / Dart:       ████████████  
-2.Python / Django:      ██████████  
-3.React / Next.js:      █████████  
-4.Node.js / TypeScript: ███████  
-5.SQL Databases:        ██████  
-6.Cloud / DevOps:       ████  
 
 
 
 
 
----
+
 
 
 
