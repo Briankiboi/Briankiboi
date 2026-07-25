@@ -103,6 +103,39 @@ Analytics (Power BI/ Dax): ██
 </p>
 
 ---
+
+
+
+## 📊 GitHub Statistics
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+
+
+
+- 📝 **Total Commits:** 715+
+- 🔀 **Pull Requests:** 35+
+- 👀 **Code Reviews:** 15+
+- ⭐ **Total Stars:** 8
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Briankiboi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Briankiboi&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🤝 Connect With Me  
 
 <p align="center">
