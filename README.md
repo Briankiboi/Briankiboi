@@ -82,14 +82,13 @@ I design and build scalable mobile and web applications with clean architecture,
 
 ## 📊 Tech Focus
 
-Flutter / Dart: ████████████  
-Python / Django: ██████████  
-React / Next.js: █████████  
-Node.js / TypeScript: ███████  
-SQL Databases: ██████  
-System Architecture: █████  
-Cloud / DevOps: ████  
-Analytics (Power BI/ Dax): ██  
+1.Flutter / Dart:       ████████████  
+2.Python / Django:      ██████████  
+3.React / Next.js:      █████████  
+4.Node.js / TypeScript: ███████  
+5.SQL Databases:        ██████  
+6.Cloud / DevOps:       ████  
+
 
 
 
@@ -134,52 +133,38 @@ Analytics (Power BI/ Dax): ██
   <img src="https://streak-stats.demolab.com?user=Briankiboi&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🤝 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/brian-kiboi-21aa02277/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://api.whatsapp.com/send?phone=254112401838" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-
-  <a href="https://briankiboi32.medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-</p>
 
 ---
-## 🌐 Portfolio & Contact  
 
-<p align="center">
+## 🤝 Connect With Me 
 
-  <a href="https://briankiboi.is-a.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Website-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<p align="left">
 
-  <a href="mailto:briankiboi83@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://briankiboi.is-a.dev">
+  <img src="https://img.shields.io/badge/Portfolio-briankiboi.is--a.dev-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<br><br>
+
+<a href="https://www.linkedin.com/in/brian-kiboi-21aa02277/">
+  <img src="https://img.shields.io/badge/LinkedIn-brian--kiboi--21aa02277-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br><br>
+
+<a href="mailto:briankiboi83@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-briankiboi83%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<br><br>
+
+
+
+<a href="https://briankiboi32.medium.com/">
+  <img src="https://img.shields.io/badge/Medium-@briankiboi32-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
 
 </p>
 
 <p align="center">
  🌐    https://briankiboi.is-a.dev/
-</p>
-
-
-  <a href="mailto:briankiboi83@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="tel:+254112401838">
-    <img src="https://img.shields.io/badge/Call-Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-
 </p>
 
 ---
