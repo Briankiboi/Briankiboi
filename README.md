@@ -95,13 +95,7 @@ I design and build scalable mobile and web applications with clean architecture,
 
 ---
 
-## 📊 GitHub Activity Overview
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Briankiboi&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 
 
@@ -133,6 +127,13 @@ I design and build scalable mobile and web applications with clean architecture,
   <img src="https://streak-stats.demolab.com?user=Briankiboi&theme=tokyonight&hide_border=true" />
 </p>
 
+
+---
+## 📊 GitHub Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Briankiboi&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
@@ -168,3 +169,4 @@ I design and build scalable mobile and web applications with clean architecture,
 </p>
 
 ---
+
